@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# Customer Relationship Management
+This project is a CRM system developed using the Django framework. It is designed to manage customer information, track customer interactions, and provide insights into customer behavior. (CRM) System 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Following are the steps to run this backend:
+1. add connection string in database yml
